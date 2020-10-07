@@ -1,6 +1,6 @@
 //
 //  Aim.swift
-//  DodgeGame
+//  Crazy Fireworks
 //
 //  Created by Matheus Kulick on 21/09/20.
 //  Copyright © 2020 Matheus Kulick. All rights reserved.

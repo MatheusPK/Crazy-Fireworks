@@ -1,6 +1,6 @@
 //
 //  SKBullet2.swift
-//  DodgeGame
+//  Crazy Fireworks
 //
 //  Created by Matheus Kulick on 25/09/20.
 //  Copyright © 2020 Matheus Kulick. All rights reserved.
